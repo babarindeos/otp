@@ -53,13 +53,13 @@
       <script>            
             // For Firebase JS SDK v7.20.0 and later, measurementId is optional
             var firebaseConfig = {
-                apiKey: "AIzaSyBxyEABztr1WuzWQCqL-Eoy2O7xT7oIzqg",
-                authDomain: "otpapp-7de16.firebaseapp.com",
-                projectId: "otpapp-7de16",
-                storageBucket: "otpapp-7de16.appspot.com",
-                messagingSenderId: "162077174757",
-                appId: "1:162077174757:web:e6078d9074a1a987bc1d0c",
-                measurementId: "G-E8FGMR3S79"
+                apiKey: "[use-your-apiKey]",
+                authDomain: "[use-your-authDomain]",
+                projectId: "[use-your-projectId]",
+                storageBucket: "[use-your-storageBucket]",
+                messagingSenderId: "[use-your-messagingSenderId]",
+                appId: "[your-appId]",
+                measurementId: "[your-measurementid]"
             };
 
             firebase.initializeApp(firebaseConfig);            
